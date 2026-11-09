@@ -1,0 +1,8 @@
+{
+  "name": "usage-band",
+  "version": "1.0.0",
+  "description": "Claude Code デスクトップアプリの入力欄の上に、Claude の使用量(5時間・1週間の%と回復の日時)を表示し、80%と95%を超えたら通知する",
+  "author": { "name": "金沢久幸" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

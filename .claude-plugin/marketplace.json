@@ -1,0 +1,6 @@
+{
+  "name": "kanazawa-ai-tools",
+  "description": "金沢久幸の AI 活用ツール",
+  "owner": { "name": "金沢久幸" },
+  "plugins": [{ "name": "usage-band", "source": "./", "description": "入力欄の上に Claude の使用量を表示し、80%・95%で通知する" }]
+}
